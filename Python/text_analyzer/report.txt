@@ -1,0 +1,12 @@
+=== LAPORAN ANALISIS TEKS ===
+Jumlah Baris     : 3
+Jumlah Kata      : 23
+Vokal            : 57
+Konsonan         : 97
+
+=== 5 KATA TERBANYAK ===
+python     ###
+sangat     ##
+dan        ##
+adalah     #
+bahasa     #
