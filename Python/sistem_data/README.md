@@ -5,7 +5,7 @@
 - NIM: 2025806010
 - Kelas: Teknologi Informasi 2
 - Dosen: Rintis Mardika Sunarto
-- Repository: [[link GitHub repo] ](https://github.com/maulanar18/UTS_PemrogramanDasar_Mohamad-Maulan-Rizky_2025806010.git)
+- Repository: [link GitHub repo]
 
 ---
 
@@ -89,4 +89,3 @@ Bahasa: Python 3
 Struktur data: Linked List (Node & Pointer)
 
 File handling: CSV (Comma-Separated Values)
-
