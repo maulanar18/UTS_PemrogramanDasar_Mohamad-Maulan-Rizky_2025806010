@@ -1,0 +1,3 @@
+Python adalah bahasa pemrograman yang sangat populer.
+Python digunakan untuk analisis data, web development, dan machine learning.
+Belajar Python sangat menyenangkan dan bermanfaat!
